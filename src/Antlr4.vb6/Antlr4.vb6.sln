@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Antlr4.vb6.WpfHost", "Antlr4.vb6.WpfHost\Antlr4.vb6.WpfHost.csproj", "{8ECDB4A6-57FC-41AA-997C-2C35481D793B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8ECDB4A6-57FC-41AA-997C-2C35481D793B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ECDB4A6-57FC-41AA-997C-2C35481D793B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ECDB4A6-57FC-41AA-997C-2C35481D793B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ECDB4A6-57FC-41AA-997C-2C35481D793B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C79BCD0-32B7-4D8C-B72F-1A75C2C6FE03}
+	EndGlobalSection
+EndGlobal
